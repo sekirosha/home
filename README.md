@@ -3,6 +3,8 @@
 # Welcome to <mark>SEKIROSHA</mark>
 SEKIROSHA is where creativity and technology converge to deliver exceptional solutions for businesses and individuals alike. We specialize in <mark>web development</mark>, <mark>app development</mark>, <mark>product design</mark>, and a unique touch with our <mark>event planning</mark> services. Whether you're looking to transform your digital presence or create unforgettable experiences, **SEKIROSHA is your trusted partner**.
 
+![image alt](https://github.com/sekirosha/home/blob/main/1.png?raw=true ) 
+
 # SEKIROSHA 
 SEKIROSHA is a forward-thinking software company that blends creativity with technology. We specialize in **web development**, **app development**, and **product design**, using the latest tools and techniques to bring your digital ideas to life. But what sets us apart is our unique offering of **Event Planning**. We don’t just build websites or apps; we create experiences.
 
