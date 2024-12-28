@@ -59,7 +59,7 @@ graph TD
 We believe that technology and creativity go hand in hand, and we’re here to help you navigate both worlds with ease. Your ideas, our expertise — let’s build something amazing together.
 
 # Build Something Amazing
-<mark>**Follow us**</mark> <br>
+<mark>Follow us</mark> <br>
 <b> Social Media </b> : <a href="https://www.facebook.com/profile.php?id=61571348574848"> Facebook </a>, <a href="https://github.com/sekirosha">GitHub</a>
 <br> <b> Email </b> : <u>sekirosha.official@gmail.com </u> <br>
 
