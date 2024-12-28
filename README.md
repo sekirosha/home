@@ -1,4 +1,4 @@
-[🏠 Home](#) | [ℹ️ About](https://github.com/sekirosha/about_sekirosha?tab=readme-ov-file#about_sekirosha) | [💼 Services](https://github.com/sekirosha/home/blob/main/README.md#our-services) | [📝 Blog](https://www.facebook.com/profile.php?id=61571348574848) | [📞 Contact](#)
+[🏠 Home](https://github.com/sekirosha/home/blob/main/README.md#welcome-to-sekirosha) | [ℹ️ About](https://github.com/sekirosha/about_sekirosha?tab=readme-ov-file#about_sekirosha) | [💼 Services](https://github.com/sekirosha/home/blob/main/README.md#our-services) | [📝 Blog](https://www.facebook.com/profile.php?id=61571348574848) | [📞 Contact](https://github.com/sekirosha/home/blob/main/README.md#build-something-amazing)
 
 # Welcome to SEKIROSHA
 SEKIROSHA is where creativity and technology converge to deliver exceptional solutions for businesses and individuals alike. We specialize in <i>web development</i>, <i>app development</i>, <i>product design</i>, and a unique touch with our <i>event planning</i> services. Whether you're looking to transform your digital presence or create unforgettable experiences, **SEKIROSHA is your trusted partner**.
