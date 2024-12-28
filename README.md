@@ -1,7 +1,7 @@
 [🏠 Home](https://github.com/sekirosha/home/blob/main/README.md#welcome-to-sekirosha) | [ℹ️ About](https://github.com/sekirosha/about_sekirosha?tab=readme-ov-file#about_sekirosha) | [💼 Services](https://github.com/sekirosha/home/blob/main/README.md#our-services) | [📝 Blog](https://www.facebook.com/profile.php?id=61571348574848) | [📞 Contact](https://github.com/sekirosha/home/blob/main/README.md#build-something-amazing)
 
-# Welcome to SEKIROSHA
-SEKIROSHA is where creativity and technology converge to deliver exceptional solutions for businesses and individuals alike. We specialize in <i>web development</i>, <i>app development</i>, <i>product design</i>, and a unique touch with our <i>event planning</i> services. Whether you're looking to transform your digital presence or create unforgettable experiences, **SEKIROSHA is your trusted partner**.
+# Welcome to <mark>SEKIROSHA</mark>
+SEKIROSHA is where creativity and technology converge to deliver exceptional solutions for businesses and individuals alike. We specialize in <mark>web development</mark>, <mark>app development</mark>, <mark>product design</mark>, and a unique touch with our <mark>event planning</mark> services. Whether you're looking to transform your digital presence or create unforgettable experiences, **SEKIROSHA is your trusted partner**.
 
 # SEKIROSHA 
 SEKIROSHA is a forward-thinking software company that blends creativity with technology. We specialize in **web development**, **app development**, and **product design**, using the latest tools and techniques to bring your digital ideas to life. But what sets us apart is our unique offering of **Event Planning**. We don’t just build websites or apps; we create experiences.
@@ -51,7 +51,7 @@ graph TD
     D --> E[Support]
 ```
 
-# Your ideas, our expertise 
+# <mark>Your ideas</mark>, our expertise 
 We believe that technology and creativity go hand in hand, and we’re here to help you navigate both worlds with ease. Your ideas, our expertise — let’s build something amazing together.
 
 # Build Something Amazing
