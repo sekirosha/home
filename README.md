@@ -1,3 +1,5 @@
+[🏠 Home](#) | [ℹ️ About](https://github.com/sekirosha/about_sekirosha?tab=readme-ov-file#about_sekirosha) | [💼 Services](#) | [📝 Blog](https://www.facebook.com/profile.php?id=61571348574848) | [📞 Contact](#)
+
 # Welcome to SEKIROSHA
 SEKIROSHA is where creativity and technology converge to deliver exceptional solutions for businesses and individuals alike. We specialize in <i>web development</i>, <i>app development</i>, <i>product design</i>, and a unique touch with our <i>event planning</i> services. Whether you're looking to transform your digital presence or create unforgettable experiences, **SEKIROSHA is your trusted partner**.
 
@@ -54,7 +56,7 @@ We believe that technology and creativity go hand in hand, and we’re here to h
 
 # Build Something Amazing
 <mark>**Follow us**</mark> <br>
-<b> Social Media </b> : <a href="https://www.facebook.com/profile.php?id=61571348574848"> Facebook </a>, <a href="">GitHub</a>
+<b> Social Media </b> : <a href="https://www.facebook.com/profile.php?id=61571348574848"> Facebook </a>, <a href="https://github.com/sekirosha">GitHub</a>
 <br> <b> Email </b> : <u>sekirosha.official@gmail.com </u> <br>
 <b> Website </b> : www.SEKIROSHA.com
 
