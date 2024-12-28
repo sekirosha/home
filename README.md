@@ -21,7 +21,7 @@ Whether you need a <i><b>custom-built website</i></b>, a <i><b>mobile app</i></b
     <th>event planner</th>
   </tr>
   <tr>
-    <td>Your website is your digital storefront, and we make it shine. At SEKIROSHA, we design and develop dynamic, user-friendly websites that engage your audience and drive results. 
+    <td>Your website is your digital storefront, and we make it shine. We design and develop dynamic, user-friendly websites that engage your audience and drive results. 
         Whether it's a sleek portfolio, a powerful e-commerce platform, or a fully custom solution, we’ve got you covered.</td>
     <td>In a mobile-first world, having the right app can set you apart. Our team builds intuitive, scalable, and feature-rich mobile applications tailored to meet your specific needs. 
         From concept to launch, we bring your ideas to life on iOS, Android, or cross-platform solutions.</td>
@@ -31,10 +31,10 @@ Whether you need a <i><b>custom-built website</i></b>, a <i><b>mobile app</i></b
         detail to ensure it’s memorable. Let us handle the logistics while you focus on making an impact. </td>
   </tr>
   <tr>
-    <td><a href="#"><mark>make a deal</mark></a></td>
-    <td><a href="#"><mark>make a deal</mark></a></td>
-    <td><a href="#"><mark>make a deal</mark></a></td>
-    <td><a href="#"><mark>make a deal</mark></a></td>
+    <td><a href="https://forms.gle/CRqHMuH1fBbveMBUA"><mark>make a deal</mark></a></td>
+    <td><a href="https://forms.gle/CRqHMuH1fBbveMBUA"><mark>make a deal</mark></a></td>
+    <td><a href="https://forms.gle/CRqHMuH1fBbveMBUA"><mark>make a deal</mark></a></td>
+    <td><a href="https://forms.gle/CRqHMuH1fBbveMBUA"><mark>make a deal</mark></a></td>
   </tr>
 </table>
 
